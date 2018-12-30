@@ -1,2 +1,2 @@
-# iocage-plugin-sickrage
-Artifact file(s) for SickRage iocage plugin
+# iocage-plugin-sickchill
+Artifact file(s) for SickChill iocage plugin
